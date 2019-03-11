@@ -1,0 +1,22 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#my-body{
+  margin: 20px;
+}
+
+#my-form{
+  width: 500px;
+}
+
+.message{
+  border-left: 6px solid lightgrey;
+  padding: 15px;
+  margin: 20px 0px;
+  font-size: 14px;
+}
+
+#answer-message{
+  background-color: lightyellow;
+}
